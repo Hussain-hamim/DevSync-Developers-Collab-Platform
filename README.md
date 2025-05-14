@@ -1,4 +1,4 @@
-# DevSync-Developers-Collab-Platform
+# DevSync - Developers Collab Platform
 
 That’s a **fantastic idea** — you’re basically designing a **developer collaboration platform** where people can form or join **teams around projects**, assign themselves **roles**, and **collaborate in public**. It blends:
 
