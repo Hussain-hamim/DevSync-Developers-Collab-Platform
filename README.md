@@ -11,7 +11,7 @@ Here’s a refined version of your idea with a solid MVP scope:
 
 ---
 
-## **ProjectForge – A Social Platform for Developer Team Collaboration**
+## **DevSync – A Social Platform for Developer Team Collaboration**
 
 ### **Core Idea:**
 
